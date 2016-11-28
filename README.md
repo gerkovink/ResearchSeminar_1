@@ -24,7 +24,7 @@ Simple. It's easier to manage a (giant) project if you break it up into smaller 
 ---
 
 #### Tip 3 - Document your code
-A year from now, when looking at your code, syntax or project, you probably won't be able to remember what you did, what your code does, or why you coded something like you did. Unless you document your code and make it insightful. When coding your project, try to adhere to some coding convention: the [Google style guides](https://github.com/google/styleguide) are very useful resources and provide you with well-designed style conventions on all the major programming and scripting languages. I suggest you study at least the [R Style Guide](https://google.github.io/styleguide/Rguide.xml) as this might me the language you will use most during your thesis.
+A year from now, when looking at your code, syntax or project, you probably won't be able to remember what you did, what your code does, or why you coded something like you did. Unless you document your code and make it insightful. When coding your project, try to adhere to some coding convention: the [Google style guides](https://github.com/google/styleguide) are very useful resources and provide you with well-designed style conventions on all the major programming and scripting languages. I suggest you study at least the [R Style Guide](https://google.github.io/styleguide/Rguide.xml) as this might be the language you will use most during your thesis.
 
 ---
 
