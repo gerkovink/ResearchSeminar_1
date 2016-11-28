@@ -1,7 +1,8 @@
-MSBBSS11: Research Seminar - Exercise 5
+MSBBSS11: Research Seminar
 ===
 
-Research Seminar 1
+Exercise 5
+
 ---
 This repository might contain useful information for anyone who’d like to pursue a career where reproducibility of code and results is desired. It is designed as a tutorial for the graduate students of the selective master program [**Methodology and Statistics for the Behavioural, Biomedical and Social Sciences**](http://www.uu.nl/masters/en/methodology-and-statistics-behavioural-biomedical-and-social-sciences) in the `MSBBSS11: Research Seminar` course. 
 
