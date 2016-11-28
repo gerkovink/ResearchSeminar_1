@@ -33,7 +33,7 @@ With GitHub this is really easy - the framework does this for you. After all, it
 If you use GitHub; you're done! congrats. If not, please integrate `Git` into `R-Studio`, or place your `R-Studio` projects into something that does version control, such as [Google Drive](https://www.google.com/drive/), [DropBox](https://www.dropbox.com/), [OneDrive](https://onedrive.live.com), [SurfDrive](https://www.surfdrive.nl/en) or any of the other major cloud-based file hosting platforms around.
 
 #### Tip 7 - Learn Markdown
-Use [markdown](http://daringfireball.net/projects/markdown/) or [rmarkdown](http://rmarkdown.rstudio.com) to communicate your project to the masses (or clients). It is easy, it allows for weaving your text and code into a single document and it makes the things you do much more reproducible. 
+Use [markdown](http://daringfireball.net/projects/markdown/) or [rmarkdown](http://rmarkdown.rstudio.com) to communicate your project to the masses (or clients). It is easy, it allows for weaving your text and code into a single document and it makes the things you do much more reproducible. It exports as anything you'd like - although I would suggest HTML files as they are cross-device readable. Oh, and this `Readme.MD` file is also written in markdown - as well as directly online editable in GitHub! As are most major code files. 
 
 #### Tip 8 - Go with the flow
 Your own workflow, that is! If you have decided on a foundation for your project workflow, all that rest is a workflow itself. I like to develop all my projects according to [this nested workflow](https://github.com/gerkovink/Pooling_MI), because it results in an effortlessly archivable project folder. But choose whatever floats your boat. 
